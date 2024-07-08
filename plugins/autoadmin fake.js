@@ -18,7 +18,7 @@ let old = performance.now()
 let neww = performance.now()
 let speed = neww - old
 let info = `
-Ritenta, sarai piú fortunato 😂`.trim() 
+Frocio, che volevi fare? 😳🫵`.trim() 
 conn.reply(m.chat, info, m, false, )
 }
 handler.help = ['autoadmin']
