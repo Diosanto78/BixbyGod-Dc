@@ -17,8 +17,8 @@ global.owner = [
 
 //────────────────────────────
 
-global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+global.mods = ['3296080130'] 
+global.prems = ['3296080130', '3296080130']
 
 //────────────────────────────
 
